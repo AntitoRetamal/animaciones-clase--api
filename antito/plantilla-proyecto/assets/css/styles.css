@@ -1,0 +1,10 @@
+/*Importamos el archivo de las fuentes CSS para poder utilizarlas en nuestro proyecto solo con la propiedad font-family: ...*/
+
+@import url('fonts.css');
+
+.cuadrado{
+    background-color: rgb(216, 175, 255);
+    height: 100px;
+    width: 100px;
+    position: absolute;
+}
